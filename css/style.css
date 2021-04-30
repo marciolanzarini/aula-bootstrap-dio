@@ -1,0 +1,37 @@
+body{
+    font: 20px: sans-serif, arial:
+}
+
+.navbar{
+    background-color: #fae491;
+}
+
+.quem-somos{
+    background-color: #f59131;
+    color:#743b30;
+    box-sizing: border-box;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.licores{
+    background-color: #fae491;
+    color: #f59131;
+}
+
+.biscoitos{
+    background-color: #743b30;
+    color: #fae491;
+}
+
+.col-md-4{
+    padding-bottom: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
